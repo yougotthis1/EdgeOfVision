@@ -6,19 +6,19 @@ prev_page:
 next_page:
   url: /1/3/auto-ml-vision-edge.html
   title: 'Auto ML Vision Edge'
-title: 'Snow’s “Grand Experiment”'
+title: 'Firebase Setup'
 
 prev_page:
 
-  url: /02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html
+  url: /1/1/google-cloud-platform.html
 
-  title: 'John Snow and the Broad Street Pump'
+  title: 'Google Cloud Platform'
 
 next_page:
 
-  url: /02/3/establishing-causality.html
+  url: /1/3/auto-ml-vision-edge.html
 
-  title: 'Establishing Causality'
+  title: 'Auto ML Vision Edge'
 
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 
