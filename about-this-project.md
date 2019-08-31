@@ -1,29 +1,3 @@
----
-title: 'Edge Of Vision'
-prev_page:
-  url: 
-  title: ''
-next_page:
-  url: /1/1/google-cloud-platform.html
-  title: 'Google Cloud Platform'
-title: 'Causality and Experiments'
-
-prev_page:
-
-  url: /01/3/subsection/subsectiontwo.html
-
-  title: 'Subsection Demo 2'
-
-next_page:
-
-  url: /02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html
-
-  title: 'John Snow and the Broad Street Pump'
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
----
 About This Project
 ====================
 
