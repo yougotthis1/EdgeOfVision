@@ -1,0 +1,49 @@
+---
+title: 'Android Application Build Gradle File'
+prev_page:
+  url: /1/6/buildgradle.html
+  title: 'Top Level Build Gradle File'
+next_page:
+  url: /intro.html
+  title: 'Home'
+comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
+---
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
+    defaultConfig {
+        applicationId "com.edgeofvision.myapp"
+        minSdkVersion 16
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'com.google.firebase:firebase-storage:19.0.0'
+    implementation 'com.google.firebase:firebase-ml-vision-automl:18.0.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.google.firebase:firebase-ml-model-interpreter:21.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'com.google.firebase:firebase-ml-vision:23.0.0'
+    implementation 'com.google.firebase:firebase-ml-vision-image-label-model:18.0.0'
+    implementation 'com.google.firebase:firebase-messaging:20.0.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+}
+
+apply plugin: 'com.google.gms.google-services'
