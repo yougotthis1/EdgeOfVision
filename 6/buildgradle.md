@@ -1,13 +1,4 @@
----
-title: 'Top Level Build Gradle File'
-prev_page:
-  url: /1/5/gcp-final-thoughts.html
-  title: 'Final Thoughts'
-next_page:
-  url: /1/7app-buildgradle.html
-  title: 'Android Application Build Gradle File'
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
----
+
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
