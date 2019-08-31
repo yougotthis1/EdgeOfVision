@@ -1,29 +1,3 @@
----
-title: 'Google Cloud Platform'
-prev_page:
-  url: /1/about-this-project.html
-  title: 'Edge Of Vision'
-next_page:
-  url: /1/2/firebase.html
-  title: 'Firebase Setup'
-title: 'Google Cloud Platform'
-
-prev_page:
-
-  url: /1/about-this-project.html
-
-  title: 'Edge Of Vision'
-
-next_page:
-
-  url: /1/2/firebase.html
-
-  title: 'Firebase Setup'
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
----
 Google Cloud Platform 
 =======================
 
