@@ -1,29 +1,3 @@
----
-title: 'Prediction Model Training on Android Device'
-prev_page:
-  url: /1/3/auto-ml-vision-edge.html
-  title: 'Auto ML Vision Edge'
-next_page:
-  url: /1/5/gcp-final-thoughts.html
-  title: 'Final Thoughts'
-title: 'Randomization'
-
-prev_page:
-
-  url: /02/3/establishing-causality.html
-
-  title: 'Establishing Causality'
-
-next_page:
-
-  url: /02/5/endnote.html
-
-  title: 'Endnote'
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
----
 Training The Model
 ====================
 Dataset
