@@ -1,29 +1,4 @@
----
-title: 'Final Thoughts'
-prev_page:
-  url: /1/4/model-training.html
-  title: 'Prediction Model Training on Android Device'
-next_page:
-  url: /1/6/build.html
-  title: 'Top Level Build.Gradle'
-title: 'Endnote'
 
-prev_page:
-
-  url: /02/4/randomization.html
-
-  title: 'Randomization'
-
-next_page:
-
-  url: /03/programming-in-python.html
-
-  title: 'Programming in Python'
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
----
 Google Cloud Platform - Final Thoughts
 ====================
 
