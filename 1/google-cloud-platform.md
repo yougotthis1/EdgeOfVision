@@ -6,19 +6,19 @@ prev_page:
 next_page:
   url: /1/2/firebase.html
   title: 'Firebase Setup'
-title: 'John Snow and the Broad Street Pump'
+title: 'Google Cloud Platform'
 
 prev_page:
 
-  url: /02/causality-and-experiments.html
+  url: /1/about-this-project.html
 
-  title: 'Causality and Experiments'
+  title: 'Edge Of Vision'
 
 next_page:
 
-  url: /02/2/snow-s-grand-experiment.html
+  url: /1/2/firebase.html
 
-  title: 'Snow’s “Grand Experiment”'
+  title: 'Firebase Setup'
 
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 
