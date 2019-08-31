@@ -1,13 +1,3 @@
----
-title: 'Android Application Build Gradle File'
-prev_page:
-  url: /1/6/buildgradle.html
-  title: 'Top Level Build Gradle File'
-next_page:
-  url: /intro.html
-  title: 'Home'
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
----
 apply plugin: 'com.android.application'
 
 android {
