@@ -1,29 +1,4 @@
----
-title: 'Firebase Setup'
-prev_page:
-  url: /1/1/google-cloud-platform.html
-  title: 'Google Cloud Platform'
-next_page:
-  url: /1/3/auto-ml-vision-edge.html
-  title: 'Auto ML Vision Edge'
-title: 'Firebase Setup'
 
-prev_page:
-
-  url: /1/1/google-cloud-platform.html
-
-  title: 'Google Cloud Platform'
-
-next_page:
-
-  url: /1/3/auto-ml-vision-edge.html
-
-  title: 'Auto ML Vision Edge'
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
-
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
----
 Firebase
 ==============
 Firebase is a google service/platform that enables developers to build high quality apps, 
