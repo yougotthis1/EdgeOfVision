@@ -6,19 +6,19 @@ prev_page:
 next_page:
   url: /1/4/model-training.html
   title: 'Prediction Model Training on Android Device'
-title: 'Establishing Causality'
+title: 'Auto ML Vision Edge API'
 
 prev_page:
 
-  url: /02/2/snow-s-grand-experiment.html
+  url: /1/2/firebase.html
 
-  title: 'Snow’s “Grand Experiment”'
+  title: 'Firebase Setup'
 
 next_page:
 
-  url: /02/4/randomization.html
+  url: /1/4/model-training.html
 
-  title: 'Randomization'
+  title: 'Prediction Model Training on Android Device'
 
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 
@@ -33,7 +33,7 @@ Auto ML Vision Edge is the API specifically used. It is one of ML Kits base-on-d
 image labeling API models. It trains models based on data uploaded into the projects
 database via the Firebase Console. Similar to the other dependencis, the sdk file 
 must be added to the applications build.gradle file. 
-![Firebase Console Auto ML Android Project](../../../images/project_home.jpg), 
+![Firebase Console Auto ML Android Project](../../images/project_home.jpg), 
 (../../../images/project_home2.jpg)
 
 Once the initial model is trained, the models performace can be evaluated, 
