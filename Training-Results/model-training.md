@@ -12,33 +12,6 @@ structured. All of the images needed to be set up into the proper folder
 according to their label. The dataset folder was compressed into a zip-file,
 and uploaded into the Firebase Console Project database.   
 
-The dataset file directory  structure is as follows:
-
-<div markdown="1" class="cell code_cell">
-<div class="input_area" markdown="1">
-```python
-##The training dataset structure
-
-flower-trainingset.zip
-  |____0-phlox
-  | |____001.png
-  | |____002.png
-  | |____003.png
-  |____1-rose
-  | |____010.png
-  | |____012.png
-  |____2-calendula
-    |____025.png
-    |____027.png
-    |____030.png
-  |..................
-	|.........
-	|.........
-	|.........
-```
-</div>
-
-</div> 
 
 Model Training
 ================
@@ -50,6 +23,7 @@ planted around my house, capturing the photos directly from my device camera, th
 the Auto Ml Vision Edge API.  
 
 Results...
+============
 
 The confusion matrix from the training dataset shows the model predicting most 
 flowers label/type accurately. The model only experienced "confusion" 
