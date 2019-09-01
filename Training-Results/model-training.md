@@ -40,7 +40,6 @@ flower-trainingset.zip
 
 </div> 
 
-
 Model Training
 ================
 
