@@ -35,10 +35,11 @@ flower-trainingset.zip
 	|.........
 	|.........
 	|.........
-```
+
 </div>
 
 </div> 
+'''
 
 Model Training
 ================
