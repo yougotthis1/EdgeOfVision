@@ -54,8 +54,8 @@ Results...
 The confusion matrix from the training dataset shows the model predicting most 
 flowers label/type accurately. The model only experienced "confusion" 
 while predicting labels for two categories of flowers (phlox and peony). When the model
-was tested on images teken directly from my android device, many of the predictions 
-were split amongst mutiple labels. There was no image that had a predicted label
+was tested on images taken directly from my android device, many of the predictions 
+were split amongst multiple labels. There was no image that had a predicted label
 of 50% or more. 
 
 This can be due to the amount of images in the original dataset, 
