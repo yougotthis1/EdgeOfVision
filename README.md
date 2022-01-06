@@ -1,6 +1,6 @@
 # EdgeOfVision
 Machine Learning On The Edge with GCP
-First time project and published book
+First time project
 
 This notebook, is a summary/demonstration of a simple computer vision project, 
 completed with the integration of machine learning and cloud computing using an edge device. 
